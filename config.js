@@ -2,17 +2,17 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6285894217616': { // put your number here
-    name: 'This Nesz',
+  '6285888213719': { // put your number here
+    name: 'Fth Playz',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282256115584': { // put your number here
-    name: 'Dave',
-    isDev: false, // if true this number will send if bot have bug and developer mode true
+  '6285894217616': { // put your number here
+    name: 'Nesz Ganteng',
+    isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
-    isCreator: false // if true this number will send if user use command /owner or /creator
+    isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '60199782326': {
     name: 'Adiixyz',

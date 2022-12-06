@@ -44,7 +44,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let str = `
 Inventory *${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])}*\n
 Health: *${healt}*
-Armor: *${armor == 0 ? 'Tidak Punya' : '' || armor == 1 ? 'Leather Armor' : '' || armor == 2 ? 'Iron Armor' : '' || armor == 3 ? 'Gold Armor' : '' || armor == 4 ? 'Diamond Armor' : '' || armor == 5 ? 'Netherite Armor' : ''}*\n
+Armor: *${armor == 0 ? 'Tidak Punya' : '' || armor == 1 ? 'Leather Armor' : '' || armor == 2 ? 'Iron Armor' : '' || armor == 3 ? 'Gold Armor' : '' || armor == 4 ? 'Diamond Armor' : '' || armor == 5 ? 'Netherite Armor' : '' || armor == 6 ? 'Obsidian Armor' : ''}*\n
 Money: *${money}*
 Level: *${level}*
 Exp: *${exp}*\n
